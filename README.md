@@ -8,10 +8,10 @@ Tools:
 - Postgre SQL
 - PgAdmin4
 
-## This dataset is with SQL and help the store understand its business growth by answering simple questions.
+### This dataset is with SQL and help the store understand its business growth by answering simple questions.
 
-## The presentation file (Music Store Analysis.pptx) will include all the solutions to the questions asked, along with the query outputs.
+### The presentation file (Music Store Analysis.pptx) will include all the solutions to the questions asked, along with the query outputs.
 
-## The "Music_Store_database_analysis.sql" file contains all the query syntax.
+### The "Music_Store_database_analysis.sql" file contains all the query syntax.
 
-## The Music_Store_database.sql file is the primary data source for the analysis.
+### The Music_Store_database.sql file is the primary data source for the analysis.
